@@ -1,3 +1,8 @@
+raw_images/
+processed_images/
+private/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
